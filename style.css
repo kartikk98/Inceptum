@@ -1,0 +1,89 @@
+.navbar{
+	height: 80px;
+	
+}
+
+.item{
+	
+	font-weight: normal;
+	text-align: center;
+	
+}
+
+.Mytask{
+	
+	
+	font-weight: normal;
+	text-align: center;
+}
+
+.image{
+	background-image: url("myimage.jpg");
+	background-size: 100% 580px;
+	height: 580px;
+	width: 100%
+	background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.heading{
+	color: white;
+	
+	text-align: center;
+	font-size: 50px;
+	font-weight: normal;
+	vertical-align: middle;
+}
+
+.line{
+	color: white;
+	
+	text-align: center;
+
+}
+
+.download{
+	 background-color: Transparent;
+	 text-align: center;
+	 color:white;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline-color: white;
+    outline-style: solid;
+    outline-width: 1px;
+    padding: 20px 40px 20px 40px;
+    position: relative;
+    left: 13%;
+    margin-top: 10px;
+}
+
+.read{
+	 background-color: #7742f4;
+	 color: white;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    text-align: center;
+    padding: 22px 70px 22px 70px;
+    position: relative;
+    left: 15%;
+    margin-top: 10px;
+}
+
+i {
+    border: solid black;
+    border-width: 0 1px 1px 0;
+    display: inline-block;
+    padding: 2px;
+
+}
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+
+}
